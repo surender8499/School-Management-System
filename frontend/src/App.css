@@ -1,0 +1,16 @@
+body.html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+.app_logo {
+  padding-left: 100px;
+}
+
+.sidebar {
+  display: flex;
+  height: 100vh;
+  float: left;
+  overflow: 'scroll initial';
+}
